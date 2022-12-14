@@ -33,3 +33,29 @@ The company wants to know:
 • Which variables are significant in predicting the reason for hospitalization for different regions
 
 • How well some variables like viral load, smoking, Severity Level describe the hospitalization charges
+
+
+
+Insights:
+
+*   Their are more male than female in the data.
+*   Their are more non-smokers than smokers in the data.
+*   Their are more people from southeast region than remaining regions.
+*   Males have slightly greater median of viral load than females.
+*   smokers have high hospitalization charges than non smokers.
+*   All the regions have almost same median of hospitalization charges.
+*   In southeast region, median of viral load is more than remaining regions.
+*   In southeast region, there are more smokers than remaining regions after comes northeast.
+*   smokers in southeast region have high hospitalization charges than remaining regions.
+*   Male smokers have high hospitalization charges than female smokers.
+*   In northeast & southeast region, as the viral load increases hospitalization charges also increases.
+*   For southwest & northwest, most of the points lie between 0-4000.
+
+
+
+Recomendations:
+
+*   Hospitalization charges for people who smoke is greater than people who don't smoke. So, people who are smoking have high chances of hospitalization. We can see what type of health problems are commom in smoking people and keep those medicines more in pharmacy.
+
+*   Since, people who are smoking have high chances of hospitalization. Southeast region have more smokers than remaining regions. So we can open more number of hospital and pharmacy branches in that region.
+
